@@ -1,0 +1,1 @@
+{"name":"descarta-facens","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node --env-file-if-exists=.env server.js","db:init":"node --env-file-if-exists=.env scripts/init-db.js","test":"node --test"},"dependencies":{"pg":"^8.16.3"},"engines":{"node":">=22"}}
